@@ -1,0 +1,4 @@
+Path to host file must be specified.
+The variable host_temp is a path to a dummy file
+To get the program to work: Refactor host_temp to contain the path to the host file
+Location of file differs depending on operating system
